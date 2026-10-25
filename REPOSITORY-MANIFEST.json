@@ -1,0 +1,26 @@
+{
+  "repository": "literary-intelligence",
+  "version": "1.0.0",
+  "files": [
+    ".github/workflows/ci.yml",
+    ".gitignore",
+    "AGENTS.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    "README.md",
+    "REPOSITORY-MANIFEST.json",
+    "SKILL.md",
+    "evals/README.md",
+    "examples/manuscript.txt",
+    "examples/sample-report.json",
+    "references/reading-protocol.md",
+    "references/report-contract.md",
+    "references/research-dossier.md",
+    "references/theory-atlas.md",
+    "references/value-model.md",
+    "scripts/validate_report.py",
+    "tests/test_contract.py"
+  ],
+  "file_count": 18,
+  "source": "Literary Intelligence original skill, reorganized as a standalone repository"
+}
